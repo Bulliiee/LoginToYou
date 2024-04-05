@@ -2,7 +2,7 @@ oauth2:
   google:
     # 
     # client-id: ''
-    # client-secret:'ss 
+    # client-사크릿:'ss 
     #    redirect-uri: 'http://localhost:8083/lgoin/oauth2/code/google'
     # redirect-uri: 'http://localhost:3000'
     # token-uri: https://oauth2.googleapis.com/token
